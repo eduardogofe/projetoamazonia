@@ -1,0 +1,181 @@
+body{
+    margin: 50px 50px  50px  100px;
+}
+
+.logotipo{
+    
+
+}
+
+.cabeça {
+    font-family: arial;
+    font-size: large;
+    color:green;
+    text-align: center;
+    float: right;
+}
+
+.head{
+    font-family: Brush Script MT; 
+    font-size: 80px;
+
+}
+
+#disc ul li{
+    display: inline;
+    display: inline-block;
+    border-style: inset;
+    background-color:rgb(216, 205, 205); 
+    text-align: center;
+    font-size:120%;
+    color:green;
+    width: 150px;
+    text-decoration: none;
+    
+}
+.li{
+    color:green;
+    text-decoration: none;
+}
+.espanhol{
+    text-align:center;
+    background-color: ;
+}
+
+.geografia{
+    text-align:center;
+    background-color: ;
+}
+.textgeo{
+    font-family: arial;
+}
+
+.historia{
+    text-align:center;
+}
+
+.textlit{
+    text-align:justify;
+    
+    
+}
+
+.textesp{
+    background-color: #58cf9805;
+
+}
+
+.texthis{
+    text-align:justify;
+    background-color: ;
+}
+
+.linkhis{
+    text-align:left;
+}
+
+.textgeo ul li{
+    color: rgb(13, 68, 13); 
+    text-align: left;
+    font-family: arial;
+    font-size:small ;
+}
+.textgeo p{
+    font-size: ;
+    text-align: justify;
+}
+
+.textpesgeo{
+    text-align:justify;
+}
+
+ul{
+    text-align:center;
+    color: green;
+}
+
+h3{
+    color: rgb(13, 68, 13);  
+    font-family: arial;
+    padding: 10px;
+}
+
+h1{
+    color: rgb(13, 68, 13); 
+    font-family: arial;
+    letter-spacing: 15px;
+}
+
+h2{
+    color: rgb(13, 68, 13); 
+    font-family: arial;
+    letter-spacing: ;
+}
+
+p{
+    color: rgb(13, 68, 13); 
+    font-family: arial;
+}
+
+
+.rodape{
+    color:rgb(13, 68, 13); 
+    font-family: Brush Script MT;
+    font-size:40px;
+    width:900px;
+    height:150px;
+    text-align: center;
+    background-color: ;
+    
+
+.page{
+ width:1000px;
+height:100px;
+background-color:  rgb(13, 68, 13); 
+
+    }
+}
+h6{
+    text-align:center;
+    font-family: arial;
+    font-size: 14px;
+    padding: 2px;
+}
+
+.espanhol{
+    background-color: #58cf9805; 
+}
+
+.geografia{
+    background-color:#58cf9805;
+}
+
+.historia{
+    background-color:; 
+}
+
+.literatura{
+    background-color:rgba(235, 229, 175, 0.034);
+}
+
+}
+.pa{
+    text-align:center;
+    font-family: Brush Script MT; 
+    font-size:40px;
+    padding: 0px;
+    color: white;
+    text-decoration:green ;
+}
+
+.prod{
+    font-size: 10px;
+    text-align: right;
+    color: black;
+}
+
+.fontes{
+    text-align:right;
+    font-size: 10px;
+    font-family: arial;
+}
